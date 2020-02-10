@@ -10,7 +10,6 @@ module.exports = {
       title: 'Android developer',
       twitter: 'mohamedibrahim',
       github: 'mohamedibrahimismail',
-      facebook: 'mohamedibrahim',
       linkedIn: 'mohamed-ibrahim-07abb4161',
     },
   },
