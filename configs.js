@@ -6,7 +6,7 @@ module.exports = {
     description: 'Blog of mine',
     author: {
       name: 'Mohamed Ibrahim',
-      avatar: 'https://pbs.twimg.com/profile_images/1166663145118732288/BtHLImve_400x400.jpg',
+      avatar: 'https://avatars0.githubusercontent.com/u/24575253?s=460&v=4',
       title: 'Android developer',
       twitter: 'mohamedibrahim',
       github: 'mohamedibrahimismail',
