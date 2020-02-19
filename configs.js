@@ -11,7 +11,7 @@ module.exports = {
       twitter: 'mohamedibrahim',
       github: 'mohamedibrahimismail',
       linkedIn: 'mohamed-ibrahim-07abb4161',
-      facebook: 'mohamedibrahim'
+      facebook: ''
     },
   },
   theme: {
