@@ -8,7 +8,7 @@ module.exports = {
       name: 'Mohamed Ibrahim',
       avatar: 'https://avatars0.githubusercontent.com/u/24575253?s=460&v=4',
       title: 'Android developer',
-      twitter: 'mohamedibrahim',
+      twitter: 'Mohamed11135066',
       github: 'mohamedibrahimismail',
       linkedIn: 'mohamed-ibrahim-07abb4161',
       facebook: ''
